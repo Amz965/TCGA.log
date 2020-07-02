@@ -1,7 +1,8 @@
 1. 各个基因集在Tumor和Normal中的表达差异
-Nrf2 group中包括G6PD, HMOX1, FTH1, 5个Nrf2下游subgeneset.(File1)
-Oxi group中包括3个subgenesets和16个genesets.(File1)
-DNA Repair Gen group中整体分析和16个genesets.(File2)
+
+- Nrf2 group中包括G6PD, HMOX1, FTH1, 5个Nrf2下游subgeneset.(File1)
+- Oxi group中包括3个subgenesets和16个genesets.(File1)
+- DNA Repair Gen group中整体分析和16个genesets.(File2)
 以上整个geneset以及geneset中的每一个基因.(File3)
 all geneset group中包括BRCA1, PALB2和大类的基因集
 以及PALB2, BRCA1和其他基因集基因表达的相关性, 从而得到其相关关系
@@ -17,3 +18,7 @@ all geneset group中包括BRCA1, PALB2和大类的基因集
 
 4. 各个geneset以及单个基因在肿瘤vs正常中的显著程度(File4)
 火山图: log2fc=0.7 & adjusted p value=0.01
+
+5. High or low expression of 8 genes conditions: all gengsets的表达情况(File5)
+
+6. High or low expression of 4 genes(NRF2,KEAP1,ATG5,ATG7) conditions: 相关的突变的情况, fisher test
